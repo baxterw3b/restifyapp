@@ -1,0 +1,15 @@
+{
+  "name": "restifyapp",
+  "version": "1.0.0",
+  "description": "app with restify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Chiesa",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.3.0",
+    "restify-validator": "^0.3.1"
+  }
+}
