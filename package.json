@@ -9,6 +9,7 @@
   "author": "Luca Chiesa",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^4.8.6",
     "restify": "^4.3.0",
     "restify-validator": "^0.3.1"
   }
